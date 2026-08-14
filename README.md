@@ -47,21 +47,5 @@ and purchasing behavior.
 - Data Cleaning
 - Data Type Conversion
 
-## Project Structure
 
-- `sql/` - SQL queries
-- ## 📸 Project Screenshots
-
-### Data Cleaning
-![Data Cleaning](screenshots/data-cleaning.png)
-
-### Top 5 Products
-![Top Products](screenshots/top-products.png)
-
-### Revenue Analysis
-![Revenue Analysis](screenshots/revenue-analysis.png)
-
-### Monthly Sales Trend
-![Monthly Sales](screenshots/monthly-sales.png)
-- `data/` - Dataset
 - `screenshots/` - Query results
